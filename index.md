@@ -18,8 +18,9 @@ layout: index
 # Tech talks
 
 * [![Develop, debug, learn screenshot](https://img.youtube.com/vi/m4t7cLFksls/maxresdefault.jpg) DotJS - Develop, Debug, Learn?](https://www.youtube.com/watch?v=m4t7cLFksls)
-* [![Why the web is dead screenshot](https://img.youtube.com/vi/CrcAPan028Y/maxresdefault.jpg) Putting the social back into social media](https://www.youtube.com/watch?v=CrcAPan028Y)
 * [![Screenshot of the Golden Calf of Coding Talk](https://img.youtube.com/vi/iPfMatOgRBg/maxresdefault.jpg) We are Developers 2018: Sacrificing the Golden Calf of Coding](https://www.youtube.com/watch?v=iPfMatOgRBg)
+
+[YouTube Search should bring up dozens of other talks](https://www.youtube.com/results?search_query=christian+heilmann&sp=CAI%253D)
 
 [AI Devcon San Francisco: AI for Human Interfaces](http://aidc.gallery.video/detail/video/5789367429001/ai-for-human-interfaces---use-cases-and-ethics?autoStart=true&q=heilmann)
 
