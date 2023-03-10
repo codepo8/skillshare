@@ -25,11 +25,11 @@ layout: index
 
 # TikTok 
 
-* https://www.tiktok.com/@vscode/video/7107824435549490478
-* https://www.tiktok.com/@vscode/video/7141866135632530734 
-* https://www.tiktok.com/@vscode/video/7085900739582725422 
+* [https://www.tiktok.com/@vscode/video/7107824435549490478](https://www.tiktok.com/@vscode/video/7107824435549490478)
+* [https://www.tiktok.com/@vscode/video/7141866135632530734](https://www.tiktok.com/@vscode/video/7141866135632530734)
+* [https://www.tiktok.com/@vscode/video/7085900739582725422](https://www.tiktok.com/@vscode/video/7085900739582725422) 
 
 # Books  
 
 * [Amazon author list](https://www.amazon.com/Christian-Heilmann/e/B001JP8M5A%3Fref=dbs_a_mng_rwt_scns_share) 
-* [![The Developer Advocacy Handbook cover](https://christianheilmann.com/wp-content/uploads/2020/12/desktop-1024x727-1.jpg) The Developer Advocacy Handbook](https://developer-advocacy.com) Developer Advocacy Handbook on Amazon](https://www.amazon.com/dp/B0BKNTPDFJ/) [Developer Advocacy Handbook on Leanpub](https://leanpub.com/developer-advocacy-handbook)
+* [![The Developer Advocacy Handbook cover](https://christianheilmann.com/wp-content/uploads/2020/12/desktop-1024x727-1.jpg) The Developer Advocacy Handbook](https://developer-advocacy.com) [Developer Advocacy Handbook on Amazon](https://www.amazon.com/dp/B0BKNTPDFJ/) [Developer Advocacy Handbook on Leanpub](https://leanpub.com/developer-advocacy-handbook)
